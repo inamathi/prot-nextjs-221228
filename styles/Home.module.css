@@ -150,6 +150,10 @@
   );
   background-clip: content-box;
 }
+.title {
+  text-transform: capitalize;
+  font-size: 4rem;
+}
 
 /* Enable hover only on non-touch devices */
 @media (hover: hover) and (pointer: fine) {
