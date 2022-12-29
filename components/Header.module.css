@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  justify-content: center;
+  column-gap: 40px;
+  width: 100%;
+  color: white;
+  background: #369;
+  text-align: center;
+  padding: 10px;
+}
+.link:hover {
+  color: #9cf;
+}
